@@ -10,8 +10,9 @@
 import {NavigationContainer} from '@react-navigation/native';
 import {DrawerNavigation} from './src/navigation/DrawerNavigation';
 import React from 'react';
-import {Text, View} from 'react-native';
+import {enableLatestRenderer} from 'react-native-maps';
 
+enableLatestRenderer();
 const App = () => {
   return (
     <NavigationContainer>
