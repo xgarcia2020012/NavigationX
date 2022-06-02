@@ -52,7 +52,7 @@ const ProfileScreen = ({}) => {
             console.log(data, details);
           }}
           query={{
-            key: 'AIzaSyAPqwUbaT0_9kMlIVxvlp7nv7wX4rl5Uno',
+            key: 'AIzaSyAKWR6VXPtXgIKO5DdHQXQ84_PdnU73TEg',
             language: 'en',
           }}
         />
